@@ -7,8 +7,5 @@ function App() {
   return <div> <h1 class="h"> Yes! </h1><h2 class=" text-center">{value} </h2><h3 class=" text-center">{value2} </h3></div>;
 
 }
-function Me3Pict() {
-  const value = ' There is more';
-  return <div> <h1 class="h"> Yes! </h1><h2 class=" text-center">{value} </h2></div>;
-}
+
 export default App;
