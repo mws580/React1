@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import './css/bootstrap/css/bootstrap.min.css';
+import './css/bootstrap/bootstrap.min.css';
 import './css/open-iconic/font/css/open-iconic-bootstrap.css';
 import './css/paper-kit.css';
 import './css/demo.css';
