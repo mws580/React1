@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './css/site.css';
 import './css/bootstrap/bootstrap.min.css';
 import './css/open-iconic/font/css/open-iconic-bootstrap.min.css';
 import './css/paper-kit.css';
 import './css/demo.css';
-import './css/site.css';
-
+import me3 from './img/antoine-barres.jpg';
 import './index.css';
 import App from './App';
 
